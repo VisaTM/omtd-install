@@ -1,12 +1,12 @@
  
-##VisaTM : Installation de la plateforme  OpenMinTeD
+## VisaTM : Installation de la plateforme  OpenMinTeD
 
-###Objectif
+### Objectif
 
 Cette opération concerne l'installation complète d'une instance OMTD.
 L'instance déployée sera pleinement opérationnelle pour test dans un environnement minimal de type VMware, avec ouverte à l'extérieur (afin de lever d'éventuels problèmes liés à d'accès).
 
-###Point de vigilance
+### Point de vigilance
 
 L'installation permettra de mesurer les difficultés rencontrées dans le déroulé d'une installation tel que préconisée par le fournisseur.
 Aucun test de couverture fonctionnelle ne sera réalisé à ce stade.
@@ -15,7 +15,7 @@ Nous pourrons ainsi nous projeter dans une configuration plus complète.
 
 Un certain nombre de points de vigilance seront mis en avant notamment pour ce qui concerne : 
 
-####Installation
+#### Installation
 
  -  Complexité de la tâche : niveau d'automatisation et de packaging, dépendances
  -  Niveau de connaissance/compétence requis
@@ -24,7 +24,7 @@ Un certain nombre de points de vigilance seront mis en avant notamment pour ce q
  -  Documentation : vue d'ensemble, disponibilité, clarté,  précision, exhaustivité, praticabilité, à jour
  - ...
  
-####Exploitation
+#### Exploitation
 
 ##### Administration de la plateforme
 
